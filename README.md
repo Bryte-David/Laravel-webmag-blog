@@ -6,7 +6,7 @@ To Run the Project, you must have
 
 If the above is true, then 
 1) Create a database and name it "moblog"
-2) Run php artisan migration
+2) Run php artisan migrate
 3) Run php artisan serve.
 
 Admin Login details - 
